@@ -1,4 +1,6 @@
-MiniPaper: A tool to summarize and compress text files using the OpenAI ChatGPT API.
+## MiniPaper
+
+A tool to summarize and compress text files using the OpenAI ChatGPT API.
 
 Usage:
 1. Make sure you have an OpenAI API token.
