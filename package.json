@@ -1,11 +1,11 @@
 {
-  "name": "MiniPaper",
-  "version": "1.0.0",
+  "name": "minipaper",
+  "version": "1.0.1",
   "description": "compress text with gpt",
   "type": "module",
   "main": "main.js",
   "bin": {
-    "gptc": "main.js"
+    "minipaper": "main.js"
   },
   "scripts": {
     "start": "node main.js"
