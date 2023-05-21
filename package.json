@@ -1,0 +1,25 @@
+{
+  "name": "MiniPaper",
+  "version": "1.0.0",
+  "description": "compress text with gpt",
+  "type": "module",
+  "main": "main.js",
+  "bin": {
+    "gptc": "main.js"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "cli",
+    "uppercase"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chatgpt": "^5.2.4",
+    "minimist": "^1.2.8",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-text": "^0.0.7"
+  }
+}
