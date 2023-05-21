@@ -9,7 +9,7 @@ Usage:
 4. Run the script with the following command:
 
 ```bash
-gptc source.txt ratio
+minipaper source.txt ratio
 ```
 
 Were 'source.txt' is the input text file and 'ratio' is the desired compression ratio (e.g., 2 for reducing the text to half its size).
