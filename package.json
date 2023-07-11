@@ -1,6 +1,6 @@
 {
   "name": "minipaper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "compress text with gpt",
   "type": "module",
   "main": "main.js",

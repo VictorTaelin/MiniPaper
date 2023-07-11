@@ -45,6 +45,7 @@ function handle_token_loading_error(err) {
 function initialize_api(token) {
   return new ChatGPTAPI({
     apiKey: token,
+    maxModelTokens: 8096,
     systemMessage: "You're a PhD that summarizes papers, seeking to understand their actual meaning in order to capture and preserve important information.",
     completionParams: {
       model: "gpt-4",
